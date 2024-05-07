@@ -1,9 +1,9 @@
 #include<stdio.h>
 int main()
 {
- int r1,c1;// no. of rows nd columns.
- printf("Inout the no. of rows in the matrix =");
- scanf("%d",&r1);
+    int r1,c1;// no. of rows nd columns.
+    printf("Inout the no. of rows in the matrix =");
+    scanf("%d",&r1);
 
     printf("Input the no. of colums in the matrix =");
     scanf("%d",&c1);
